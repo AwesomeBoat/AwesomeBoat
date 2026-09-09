@@ -32,7 +32,7 @@ I don't want my GitHub to be a collection of tutorials.
 
 I'm using it as a **laboratory** to build real projects, experiment with technologies and document what I learn.
 
-### 📈 Longitude
+### 📈 Chronicle
 
 **A personal data historian**
 
@@ -44,17 +44,6 @@ It's about building a **long-term memory of a person through data**.
 
 ---
 
-### 📦 SmartStock AI
-
-An **AI + IoT inventory management system** designed for small businesses that still rely heavily on spreadsheets and manual inventory processes.
-
-The idea is to combine:
-
-**Sensors + barcode scanning + inventory data + machine learning**
-
-to make stock management more automated and intelligent.
-
----
 
 ### ⚡ AIoT Energy Monitor
 
