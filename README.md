@@ -17,8 +17,8 @@ Currently, I'm focused on **AI, IoT, machine learning and software engineering**
 * 📊 **Data Engineering & Data Science**
 * 🐍 **Python & Software Development**
 * ⚙️ **Automation & Intelligent Systems**
-* 🧩 **Personal data & quantified self**
-* 🔬 **Experimentation & building in public**
+
+
 
 I'm particularly interested in the space where **software meets the real world**.
 
