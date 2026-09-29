@@ -4,13 +4,13 @@
 
 I'm interested in building software that connects **data, intelligence and the physical world**.
 
-I like taking an idea from *"this could be useful"* to something that actually works — designing the architecture, writing the code, collecting data, training models, connecting hardware, and iterating until the thing becomes real.
+I like taking an idea from *"this could be useful"* to something that actually works , designing the architecture, writing the code, collecting data, training models, connecting hardware, and iterating until the thing becomes real.
 
 Currently, I'm focused on **AI, IoT, machine learning and software engineering**, while building a portfolio of practical projects.
 
 ---
 
-## 🧠 What I'm interested in
+## What I'm interested in
 
 * 🤖 **Artificial Intelligence & Machine Learning**
 * 🌐 **IoT & Connected Systems**
@@ -44,35 +44,6 @@ It's about building a **long-term memory of a person through data**.
 
 ---
 
-
-### ⚡ AIoT Energy Monitor
-
-An IoT system for monitoring energy consumption and detecting abnormal behavior.
-
-I'm experimenting with:
-
-* Synthetic and real-world energy data
-* Time-series processing
-* Anomaly detection
-* IoT devices and sensors
-* Machine learning models
-* Data visualization
-
----
-
-### 🛠️ swissKNIFE
-
-A local-first file conversion tool.
-
-Drop files → the application determines the conversions that are valid for **all selected files** → configure → convert.
-
-No AI.
-No cloud.
-No unnecessary complexity.
-
-Just deterministic software that does one thing well.
-
----
 
 ## 🧰 My toolbox
 
@@ -138,18 +109,9 @@ I'm also interested in:
 
 ---
 
-## 📊 GitHub
-
-Most of my projects, experiments and learning progress are documented here.
-
-If something catches your attention, **open the repository and have a look at the code**.
-
-I'm always interested in feedback, ideas and interesting technical discussions.
-
----
 
 ### 🤝 Let's build something.
 
-**If you're interested in AI, IoT, software engineering or just building weird things that might actually be useful — feel free to reach out.**
+**If you're interested in AI, IoT, software engineering or just building weird things that might actually be useful feel free to reach out.**
 
 > *Stay curious. Build things. Break things. Learn.*
