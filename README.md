@@ -34,10 +34,14 @@ The goal isn't another dashboard of yesterday's numbers. It's a **long-term memo
 
 ## 🧰 Toolbox
 
-**Languages:** `Python` `JavaScript` `HTML/CSS` 
+**Languages:** `Python` `JavaScript` `HTML/CSS`
+
 **Backend / Data:** `FastAPI` `Flask` `SQLite` `Pandas` `NumPy` `Scikit-learn`
+
 **IoT / Hardware:** `Raspberry Pi` `Arduino` `Sensors`
+
 **Learning:** `Deep Learning` `Data Engineering` `Software Architecture`
+
 **Dev:** `Git` `Linux` `uv` `VS Code`
 
 ---
