@@ -62,5 +62,6 @@ Outside code: 🎹 piano · 🥊 Muay Thai · ⚡ productivity systems
 
 
 
-**📫 Reach me:** [https://www.linkedin.com/in/ernest-vervaeren/]
+**📫 Reach me:** https://www.linkedin.com/in/ernest-vervaeren/
+
 Interested in AI, IoT, or building weird things that might actually be useful? Let's talk.
