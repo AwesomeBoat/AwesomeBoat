@@ -1,117 +1,62 @@
-# Hey, I'm Ernest 👋
+# Hey, I'm Ernest 🙋​
 
-**AI / IoT Developer · Software Engineer in Progress · Builder**
+**Software engineer in progress · AI & IoT · Builder**
 
-I'm interested in building software that connects **data, intelligence and the physical world**.
+I build software that connects **data, intelligence and the physical world**:
+**sensors → data → models → decisions → actions.**
 
-I like taking an idea from *"this could be useful"* to something that actually works , designing the architecture, writing the code, collecting data, training models, connecting hardware, and iterating until the thing becomes real.
+I take an idea from "this could be useful" to something that actually runs: architecture, code, data collection, models, hardware, and lots of iteration.
 
-Currently, I'm focused on **AI, IoT, machine learning and software engineering**, while building a portfolio of practical projects.
-
----
-
-## What I'm interested in
-
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🌐 **IoT & Connected Systems**
-* 📊 **Data Engineering & Data Science**
-* 🐍 **Python & Software Development**
-* ⚙️ **Automation & Intelligent Systems**
-
-
-
-I'm particularly interested in the space where **software meets the real world**.
-
-Sensors → Data → Models → Decisions → Actions.
-
----
 
 ## 🚀 What I'm building
 
-I don't want my GitHub to be a collection of tutorials.
+Two projects, one system: **Chronicle** collects and remembers, **Smart Display** talks back.
 
-I'm using it as a **laboratory** to build real projects, experiment with technologies and document what I learn.
+### 📈 [Chronicle](https://github.com/AwesomeBoat/Chronicle)
+**A personal data historian.**
 
-### 📈 Chronicle
+Continuously collects my sleep, heart rate, workouts, meals, bedroom temperature, screen time, movies and reading (what, when, for how long), and structures it into a long-term history.
 
-**A personal data historian**
-
-A system designed to collect, structure and analyze personal data over time — from sleep and activity to habits and other signals.
-
-The goal isn't another dashboard showing yesterday's numbers.
-
-It's about building a **long-term memory of a person through data**.
-
----
+The goal isn't another dashboard of yesterday's numbers. It's a **long-term memory of a person, built from data**, and the base for models trained on my own life.
 
 
-## 🧰 My toolbox
 
-### Languages
+### 🖥️ [Smart Display](https://github.com/AwesomeBoat/Smart-Display)
+**A screen at home that doesn't just show the time and weather, but knows my data and uses it.**
 
-`Python` `JavaScript` `HTML` `CSS` `C#`
+*Working today:* real-time dashboard (time, weather, calendar, tasks, habits), controlled from the phone, with a profile per person in the house.
+*Next:* run it on a Raspberry Pi, plug it into Chronicle, then add an intelligent layer: ML models trained on my data, plus a layer that interprets them. For example: *"Go to bed at 10:50. That's when you get the most deep sleep, based on your last 6 months."*
 
-### AI / Data
+`Python` `FastAPI` `SQLite` `Server-Sent Events` `Raspberry Pi (planned)`
 
-`Machine Learning` `Deep Learning` `Pandas` `NumPy` `Scikit-learn`
+**Photo coming soon**
 
-### IoT / Hardware
 
-`Raspberry Pi` `Arduino` `Sensors` `Embedded Systems`
+## 🧰 Toolbox
 
-### Development
-
-`Git` `GitHub` `Linux` `VS Code` `Flask`
-
-### Currently learning
-
-`AI Engineering` · `IoT Architecture` · `Deep Learning` · `Data Engineering` · `Software Architecture`
+**Languages:** `Python` `JavaScript` `HTML/CSS` 
+**Backend / Data:** `FastAPI` `Flask` `SQLite` `Pandas` `NumPy` `Scikit-learn`
+**IoT / Hardware:** `Raspberry Pi` `Arduino` `Sensors`
+**Learning:** `Deep Learning` `Data Engineering` `Software Architecture`
+**Dev:** `Git` `Linux` `uv` `VS Code`
 
 ---
 
-## 🧪 How I like to learn
+## 🧪 How I learn
 
-**Build → Break → Understand → Rebuild → Document**
+**Build → Break → Understand → Rebuild → Document.**
 
-I learn best by working on things that are slightly beyond my current abilities.
-
-Instead of trying to know everything before starting a project, I prefer to build something, encounter problems, research the underlying concepts, and then improve the system.
-
-That's also what you'll find in my repositories.
-
-Not everything is perfect.
-
-That's kind of the point.
-
----
-
-## 📚 My current direction
-
-I'm working toward becoming an **AI / IoT Engineer**, with a strong foundation in software engineering.
-
-My long-term goal is to build systems that can:
-
-> **sense → understand → predict → act**
-
-Whether that's in industrial environments, smart homes, personal data systems or other real-world applications.
-
----
-
-## 🌱 Outside of code
-
-I'm also interested in:
-
-🎹 Music & piano
-🥊 Training & Muay Thai
-🧠 Learning & self-improvement
-⚡ Productivity & personal systems
-🤖 Technology & automation
-
----
+I'd rather start a project slightly beyond my level and learn the concepts as problems appear than study everything first. My repos reflect that: not everything is perfect, and that's the point.
 
 
-### 🤝 Let's build something.
 
-**If you're interested in AI, IoT, software engineering or just building weird things that might actually be useful feel free to reach out.**
+## 🎯 Direction
 
-> *Stay curious. Build things. Break things. Learn.*
+I'm working toward an **AI / IoT engineer** role on top of a solid software engineering base, building systems that **sense, understand, predict and act**: smart homes, industrial settings, personal data systems.
+
+Outside code: 🎹 piano · 🥊 Muay Thai · ⚡ productivity systems
+
+
+
+**📫 Reach me:** [https://www.linkedin.com/in/ernest-vervaeren/]
+Interested in AI, IoT, or building weird things that might actually be useful? Let's talk.
